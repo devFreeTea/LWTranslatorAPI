@@ -1,0 +1,9 @@
+C:\Users\Sam\Desktop\LWTranslatorAPI\bin\Debug\netcoreapp1.1\LWTranslatorAPI.deps.json
+C:\Users\Sam\Desktop\LWTranslatorAPI\bin\Debug\netcoreapp1.1\LWTranslatorAPI.runtimeconfig.json
+C:\Users\Sam\Desktop\LWTranslatorAPI\bin\Debug\netcoreapp1.1\LWTranslatorAPI.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\LWTranslatorAPI\bin\Debug\netcoreapp1.1\LWTranslatorAPI.dll
+C:\Users\Sam\Desktop\LWTranslatorAPI\bin\Debug\netcoreapp1.1\LWTranslatorAPI.pdb
+C:\Users\Sam\Desktop\LWTranslatorAPI\obj\Debug\netcoreapp1.1\LWTranslatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\LWTranslatorAPI\obj\Debug\netcoreapp1.1\LWTranslatorAPI.AssemblyInfo.cs
+C:\Users\Sam\Desktop\LWTranslatorAPI\obj\Debug\netcoreapp1.1\LWTranslatorAPI.dll
+C:\Users\Sam\Desktop\LWTranslatorAPI\obj\Debug\netcoreapp1.1\LWTranslatorAPI.pdb
